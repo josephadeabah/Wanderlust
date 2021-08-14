@@ -1,2 +1,1 @@
 # Wanderlust
-Javascript Promises Codecademy
